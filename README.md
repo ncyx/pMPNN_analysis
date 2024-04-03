@@ -29,3 +29,5 @@ Installation can be carried out directly from the .yml:
 * Install jupyter notebook
 
   `pip install notebook`
+  
+* Open notebook in jupyterlab or jupyter notebook and go through the tutorial!
