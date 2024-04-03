@@ -1,0 +1,17 @@
+name: mpnn_analysis
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pip
+  - matplotlib
+  - seaborn
+  - scipy
+  - pandas
+  - numpy
+  - biopython
+  - mdanalysis
+  - biotite
+  - statannotations
+  - pip:
+      - freesasa==2.2.1
