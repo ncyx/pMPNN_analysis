@@ -1,5 +1,5 @@
 # Automated Analysis of ProteinMPNN Designed Sequences (pMPNN_analysis)
-![pipeline](https://github.com/ncyx/pMPNN_analysis/tree/main/figure_pipeline/pipeline.png)
+![pipeline](/figure_pipeline/pipeline.png)
 ## Description
 
 This repository contains scripts on automated data analysis and visualization of biophysical parameters of pMPNN-designed (benchmarked for monomeric) proteins. 
