@@ -20,4 +20,12 @@ Installation can be carried out directly from the .yml:
 
   `git clone https://github.com/ncyx/pMPNN_analysis.git`
   
-  `cd pmPNN_analysis/scripts`
+  `cd pMPNN_analysis/scripts`
+
+* Activate conda environment:
+
+  `conda activate mpnn_analysis`
+
+* Install jupyter notebook
+
+  `pip install notebook`
